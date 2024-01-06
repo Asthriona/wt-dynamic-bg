@@ -24,6 +24,8 @@ then try it by going to `http://localhost:3000/random`
 if it displayed an image, now just go to your terminal settings, set the link in there.  
 You can use any nodeJS compatible host to host it, then just past the link in your settings. 
 
+<div><video controls src="https://cdn.asthriona.com/i/2024/01/2024-01-06%2004-35-21.mp4" muted="true"></video></div>
+
 ## Troubleshooting
 ### My images never changes.
 On windows Terminal you have to open a new window in order to have a new image.  
