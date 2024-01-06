@@ -18,6 +18,13 @@ npm i
 npm run dev
 ```
 
+don't forget to set the port in your `.env`!
+```bash
+cp .env.exemple .env
+nano .env
+```
+change the `3000` by anything you want as long as no other process listen on it!
+
 ## how to use?
 Put your images in `src/public/images` (You can delete the pre-existing images.)  
 then try it by going to `http://localhost:3000/random`
